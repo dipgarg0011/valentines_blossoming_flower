@@ -1,4 +1,12 @@
 window.onload = function() {
+  alert(
+    "Hey Moti 💖\n\n" +
+    "If you say Yes, I owe you a real date.\n" +
+    "If you say No… I’ll still take you out 😏"
+  );
+};
+
+window.onload = function() {
   alert("HeyTulsi 💖\nI made this just for you — no drama, only love :)");
 };
 

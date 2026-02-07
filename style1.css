@@ -994,3 +994,9 @@ body {
   position: relative;
   z-index: 10;
 }
+#btns {
+  position: relative;
+  z-index: 10;
+  margin-bottom: 60px;
+}
+

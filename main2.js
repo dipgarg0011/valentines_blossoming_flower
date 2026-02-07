@@ -6,10 +6,6 @@ window.onload = function() {
   );
 };
 
-window.onload = function() {
-  alert("HeyTulsi 💖\nI made this just for you — no drama, only love :)");
-};
-
 document.addEventListener("DOMContentLoaded", function () {
     // Get all elements with class "image1"
     var images = document.querySelectorAll(".image1");

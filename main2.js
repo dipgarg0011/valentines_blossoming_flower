@@ -109,10 +109,24 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "Heeriye… you just made my whole year 💖🌸";
+        wedate.innerText = "Now..you just stole my heart 💖🥹";
+
+mainImg.src = "https://raw.githubusercontent.com/NikhilMarko03/resources/main/happy3.gif";
+
 setTimeout(() => {
-   alert("Dinner is on me. Date is already planned 😏");
-}, 1500);
+  alert(
+    "Okay listen carefully now 😏\n\n" +
+    "You + Me = Valentine Date 💕\n" +
+    "Menu: Chocolate + Walk + Your Favorite Food 🍫🌸\n\n" +
+    "Deal? 😌"
+  );
+}, 1200);
+
+setTimeout(() => {
+  wedate.innerText =
+    "Officially my Valentine — Tulsi 🌸💖";
+}, 2500);
+
 
 
         // Open index1.html in a new tab

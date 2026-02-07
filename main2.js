@@ -126,7 +126,7 @@ setTimeout(() => {
   wedate.innerText =
     "Officially my Valentine — Tulsi 🌸💖";
 }, 2500);
-
+ document.getElementById("valentineQ").style.display = "none";
 
 
         // Open index1.html in a new tab

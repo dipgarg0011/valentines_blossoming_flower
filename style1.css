@@ -989,3 +989,8 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }/*# sourceMappingURL=style.css.map */
+
+#btns {
+  position: relative;
+  z-index: 10;
+}
